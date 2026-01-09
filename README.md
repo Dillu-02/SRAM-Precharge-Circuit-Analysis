@@ -73,4 +73,4 @@ This design choice reflects a balanced trade-off between speed and power efficie
 
 ## Notes
 
-This repository focuses on design analysis and architectural decision-making. Foundry-specific layout files and proprietary design kits are intentionally not included.
+**Cadence Virtuoso schematic and simulation databases are not included due to licensing restrictions. Screenshots and results are provided for technical validation.**

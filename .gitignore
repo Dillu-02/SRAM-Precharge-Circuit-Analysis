@@ -1,0 +1,15 @@
+# Cadence Virtuoso / Spectre
+*.psf
+*.psfbin
+*.raw
+*.ic
+*.log
+*.tmp
+*.history
+*.cdslck
+*.oa
+*.sim
+
+# OS
+.DS_Store
+Thumbs.db
